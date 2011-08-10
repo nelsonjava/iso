@@ -2159,11 +2159,11 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Class>
 <o:Class Id="o52">
 <a:ObjectID>764E76C4-A0B3-4627-BBC2-3FC028E019FA</a:ObjectID>
-<a:Name>Medio</a:Name>
-<a:Code>Medio</a:Code>
+<a:Name>Medios</a:Name>
+<a:Code>Medios</a:Code>
 <a:CreationDate>1312919910</a:CreationDate>
 <a:Creator>admin</a:Creator>
-<a:ModificationDate>1313003873</a:ModificationDate>
+<a:ModificationDate>1313012358</a:ModificationDate>
 <a:Modifier>admin</a:Modifier>
 <a:UseParentNamespace>0</a:UseParentNamespace>
 <c:Attributes>
